@@ -155,12 +155,6 @@ section {
     display: none;
 }
 
-.home {
-    background: url(../img/banner-bg.jpg);
-    background-size: cover;
-    background-position: center;
-}
-
 .home .row {
     display: flex;
     align-items: center;
@@ -301,7 +295,7 @@ section {
 }
 
 .featured-2 .featured-slider .box .img img {
-    height: 25rem;
+    height: 20rem;
 }
 
 .featured-2 .featured-slider .box .content {
